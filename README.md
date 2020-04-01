@@ -6,8 +6,8 @@
 
 相关内容的链接：
 
-使用手工方式进行虚拟机迁移：([使用手工方式将虚拟机从阿里云迁移至AWS]())
+使用手工方式进行虚拟机迁移：[使用手工方式将虚拟机从阿里云迁移至AWS](https://github.com/liangfb/alicloudmigration/blob/master/migrationmanually.md)
 
-使用Cloudendure工具进行虚拟机迁移：([使用CloudEndure将虚拟机从阿里云迁移至AWS]())
+使用Cloudendure工具进行虚拟机迁移：[使用CloudEndure将虚拟机从阿里云迁移至AWS](https://github.com/liangfb/alicloudmigration/blob/master/migrationbycloudendure.md)
 
 关于负载均衡器的迁移：([将阿里云SLB负载均衡规则复制到AWS ALB](https://github.com/liangfb/SLBRulestoALB))
